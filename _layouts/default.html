@@ -20,9 +20,6 @@
       <img src="{{site.logo | relative_url}}" alt="Logo" width="50%"/>
       {% endif %} 
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.twitter.account_url }}" class="btn">
           <img src="{{ site.twitter.logo }}" width="20">
