@@ -1,5 +1,19 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: iwashiz home dir
+logo: /assets/img/thumnail.png
+description: "Welcome !!! Thank you for your comming.  iwashiz のホームディレクトリへようこそ！"
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+lang: js
+github:
+  repository_url: https://github.com/iwashiz0/iamiwashiz0
+  repository_name: iamiwashiz0
+  owner_url: https://github.com/iwashiz0
+  owner_name: iwashiz
+  logo: /assets/img/github-mark-white.png
+twitter:
+  account_url: https://twitter.com/iwashiz0
+  logo: /assets/img/x-logo-white.png
+qiita:
+  account_url: https://qiita.com/iwashiz0
+  logo: /assets/img/qiita-white-icon.png
